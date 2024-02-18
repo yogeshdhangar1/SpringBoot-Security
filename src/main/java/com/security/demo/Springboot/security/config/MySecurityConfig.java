@@ -1,5 +1,6 @@
 package com.security.demo.Springboot.security.config;
 
+import com.security.demo.Springboot.security.models.User;
 import org.apache.coyote.Adapter;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 import org.springframework.context.annotation.Configuration;
